@@ -11,6 +11,8 @@ bloomberg
 independent
 freetibet
 citizenpowerfor
+gov
+edu
 rfa.org
 bbc.com
 theinitium.com
@@ -129,7 +131,6 @@ hpool.com
 huobipool.com
 haopool.com
 # 以下为中国大陆域名
-gov.cn
 10010.com
 189.cn
 10086.cn
@@ -163,8 +164,10 @@ tianya.cn
 tieba.baidu.com
 xuexi.cn
 rednet.cn
-full:weibo.com
+weibo.com
 zhihu.com
 douban.com
 yunshanfu.cn
 unionpay.com
+tmall.com
+vip.com
