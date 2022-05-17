@@ -165,7 +165,8 @@ tieba.baidu.com
 xuexi.cn
 rednet.cn
 weibo.com
-zhihu.com
+regexp:(.*\.||)(zhihu)\.(com)
+# zhihu.com
 douban.com
 yunshanfu.cn
 unionpay.com
