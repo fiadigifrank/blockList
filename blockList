@@ -4,7 +4,7 @@
 (.+\.|^)(360|so)\.(cn|com)
 (\.guanjia\.qq\.com|qqpcmgr|QQPCMGR)
 (api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com
-.*bank|bc|cb|xb|cib|spdb|boc|cdb.*
+(.*\.||)(bank|bc|cb|xb|cib|spdb|boc|cdb)\.(com|net|org)
 (.*\.||)(mycard)\.(com|tw)
 (.*\.||)(taobao)\.(com)
 (.*\.||)(metatrader4|metatrader5|mql5)\.(org|com|net)
@@ -13,11 +13,11 @@
 (.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 (api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
 (.*.||)(ipaddress|whatismyipaddress|whoer|iplocation|ip138).(org|com|net|my|to|co)
-.*whatismyip.*
 (^.*@)(guerrillamail|guerrillamailblock|sharklasers|grr|pokemail|spam4|bccto|chacuo|027168).(info|biz|com|de|net|org|me|la)
 (ed2k|.tor­rent|peer_id=|an­nounce|in­fo_hash|get_peers|find­_n­ode|Bit­Tor­rent|an­nounce_peer|an­nounce.php?passkey=|mag­net:|xun­lei|sandai|Thun­der|XL­LiveUD|bt_key)
 (.*\.||)(speed|speedtest|fast|speed.cloudflare)\.(com|cn|net|co|xyz|dev|edu|pro)
 (.*\.||)(qq|weibo|douyin|douban|tieba.baidu|cctv|dianping|tv.cctv|zhihu|toutiao|xiaohongshu|xhscdn|kuaishou|kuaishouzt)\.(com|cn|net|co|xyz|dev|edu|pro)
+(.*\.||)(sigmapool|hashcity|2miners|solo-etc|nanopool|minergate|comining|give-me-coins|hiveon|arsmine|baikalmine|solopool|litecoinpool|mining-dutch|clona|viabtc|beepool|maxhash|bwpool|coinminerz|miningcore|multipools|uupool|minexmr|pandaminer|f2pool|sparkpool|antpool|poolin|slushpool|marathondh|pool.btc)\.(cn|com|org|net|club|net|fr|tw|hk|eu|info|me|io)
 BitTorrent protocol
 Private Tracker protocol
 bittorrent
